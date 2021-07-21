@@ -1,5 +1,3 @@
-#ТЕСТОВОЕ ЗАДАНИЕ
-##Настройка БД:
 Для правильного безопасного функционирования программы необхоидимо создать двух пользователей БД:<br>
 **writer**: INSERT,UPDATE,DELETE,CREATE,DROP,INDEX,ALTER,CREATE TEMPORARY TABLES,CREATE VIEW,EVENT,TRIGGER,SHOW VIEW,
 CREATE ROUTINE,ALTER ROUTINE,EXECUTE<br>
